@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GoogleMapApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_test">Map</string>
+    <string name="location_permission_denied">Denied</string>
+    <string name="permission_required_toast">Permission required</string>
+    <string name="permission_rationale_location">rationale</string>
+    <string name="gps_disabled">GPS disabled</string>
+    <string name="gps_disabled_title">GPS Disabled</string>
+    <string name="enable">Enable</string>
+    <string name="cancel">Cancel</string>
+</resources>
